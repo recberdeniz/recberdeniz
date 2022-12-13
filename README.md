@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Deniz, @recberdeniz
-- 👀 I’m interested in 3D printers and Python Programming
-- 🌱 I’m currently learning Python Programming
+- 👋 Hi, I’m Deniz and currently living in Ankara. @recberdeniz
+- 👀 I’m interested in 3D printers as a hobby and Python Programming as a professionally.
+- 🌱 I’m currently improving myself about Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> recberdeniz@gmail.com
 
